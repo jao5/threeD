@@ -7,5 +7,6 @@ Ways to view:
 
 2. Go to this Github "Page" to see the graphic natively displayed by Wolfram, embedded in an Html iframe.
 https://jao5.github.io/threeD/
+Command drag to zoom. Shift drag to pan.
 
 (2D view?  Mathematica notebook file?)
